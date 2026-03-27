@@ -35,14 +35,14 @@ I am passionate about **Autonomous Robotics** and **Computer Vision**. Currently
 - **Indoor SLAM Drone:** Integrating **RTAB-Map** with **OAK-D** depth data for real-time 3D environment reconstruction.
 - **Autonomous Navigation:** Developing custom ROS2 nodes in **Python** and **C** to handle sensor fusion and path planning.
 - **Hardware Integration:** Interfacing Raspberry Pi 5 with various Flight Controllers for stable indoor flight.
-
+<!--
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=[drone-maker]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
+-->
 ---
 
 ### 💬 Connect with me
