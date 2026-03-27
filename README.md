@@ -46,9 +46,7 @@ I am passionate about **Autonomous Robotics** and **Computer Vision**. Currently
 ---
 
 ### 💬 Connect with me
-- 📧 **Email:** [Din Email]
-- 💼 **LinkedIn:** [Din LinkedIn-länk]
-- 📸 **Instagram/YouTube:** [Om du har drönarvideos]
+- 📧 **Email:** oskman@hotmail.se
 
 ---
 
