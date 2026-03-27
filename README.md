@@ -1,4 +1,4 @@
-# Hi there, I'm [Ditt Namn/Användarnamn] 👋
+# Hi there, I'm Oskar Månsson 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Robotics+Engineer+in+the+making;Building+Autonomous+Indoor+Drones;ROS2+%7C+Python+%7C+C+%7C+SLAM" alt="Typing SVG" />
